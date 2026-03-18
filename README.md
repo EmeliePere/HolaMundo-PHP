@@ -1,4 +1,4 @@
-```markdown
+
 # Hola Mundo en PHP
 
 ## Descripción
